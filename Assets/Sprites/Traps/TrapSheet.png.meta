@@ -1,0 +1,934 @@
+fileFormatVersion: 2
+guid: 9ff7f56bf38e19744a126189e47aaa8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5754925489210475126
+    second: TrapSheet_0
+  - first:
+      213: -6957110507778052380
+    second: TrapSheet_1
+  - first:
+      213: 4676982679879415344
+    second: TrapSheet_2
+  - first:
+      213: -5145187703676873082
+    second: TrapSheet_3
+  - first:
+      213: 1119862901275616594
+    second: TrapSheet_4
+  - first:
+      213: -4051071494904101508
+    second: TrapSheet_5
+  - first:
+      213: 4912570981733846180
+    second: TrapSheet_6
+  - first:
+      213: -2709611190085228549
+    second: TrapSheet_7
+  - first:
+      213: 5657208990652672150
+    second: TrapSheet_8
+  - first:
+      213: -3934779224746674976
+    second: TrapSheet_9
+  - first:
+      213: -630827071054551233
+    second: TrapSheet_10
+  - first:
+      213: -3285503342670826198
+    second: TrapSheet_11
+  - first:
+      213: -3287933505031729512
+    second: TrapSheet_12
+  - first:
+      213: 5571088200934246618
+    second: TrapSheet_13
+  - first:
+      213: -3266407918290059203
+    second: TrapSheet_14
+  - first:
+      213: 8497788409828698085
+    second: TrapSheet_15
+  - first:
+      213: -7126009811534595563
+    second: TrapSheet_16
+  - first:
+      213: 1996037368639705041
+    second: TrapSheet_17
+  - first:
+      213: 7410975436752971834
+    second: TrapSheet_18
+  - first:
+      213: 8597506773060609530
+    second: TrapSheet_19
+  - first:
+      213: -2576020910035042287
+    second: TrapSheet_20
+  - first:
+      213: -687169421910390521
+    second: TrapSheet_21
+  - first:
+      213: -5876018980163473710
+    second: TrapSheet_22
+  - first:
+      213: 5432345649541460361
+    second: TrapSheet_23
+  - first:
+      213: 8989722533815875354
+    second: TrapSheet_24
+  - first:
+      213: -7973795071648819489
+    second: TrapSheet_25
+  - first:
+      213: 6927989631832869580
+    second: TrapSheet_26
+  - first:
+      213: 8281797251175363505
+    second: TrapSheet_27
+  - first:
+      213: 987606158641001934
+    second: TrapSheet_28
+  - first:
+      213: 397934248042097970
+    second: TrapSheet_29
+  - first:
+      213: -1329586156109868507
+    second: TrapSheet_30
+  - first:
+      213: -7216552810368631651
+    second: TrapSheet_31
+  - first:
+      213: 1632138671826728581
+    second: TrapSheet_32
+  - first:
+      213: 280742582663574353
+    second: TrapSheet_33
+  - first:
+      213: -2728769326411735934
+    second: TrapSheet_34
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TrapSheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 324
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eee8d7b0c81d64d9b27dbb01da47e1
+      internalID: 5754925489210475126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_1
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 196
+        width: 320
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133f3bab19ca55743bcb12f0ab5c3ec6
+      internalID: -6957110507778052380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 324
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba2441588b84f742a32e09471ff6a35
+      internalID: 4676982679879415344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 356
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b31bbd17f316d46a6ada0f803054ec
+      internalID: -5145187703676873082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 356
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8acfc7a52d3be479880a6e6ee0ea06
+      internalID: 1119862901275616594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 192
+        width: 192
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4356b8c4dac0ea4491b97dfd9bd1752
+      internalID: -4051071494904101508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 192
+        width: 192
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca36f5e1ec43365478991f176d396db8
+      internalID: 4912570981733846180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_8
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 128
+        width: 64
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce049b95c13f5044bc74b29253fd40a
+      internalID: 5657208990652672150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_9
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 256
+        width: 40
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f261e1ee673558946970853dbab8a700
+      internalID: -3934779224746674976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_10
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 256
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad91e5e82984be48bd362a9fb575041
+      internalID: -630827071054551233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_11
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 124
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c212dd48c54c884faf81aa57f3b4a47
+      internalID: -3285503342670826198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_12
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 188
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a181eb5fc7e0d1a41b1091821a1cc654
+      internalID: -3287933505031729512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_13
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 188
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f4a86730e7eee419f0a0f673384298
+      internalID: 5571088200934246618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 114
+        width: 128
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8ad76c5ade87f45ae34a96627946ba
+      internalID: -3266407918290059203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_15
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 124
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6491db127f8dde44aabadb8cb784305
+      internalID: 8497788409828698085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 124
+        width: 117
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268016385a968d84eb6a2d8e724aa550
+      internalID: -7126009811534595563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_17
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 120
+        width: 50
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f40592dfb28414693efbf3c029f9e3
+      internalID: 1996037368639705041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac98e16d8474f24e85f14c8e1ab7e2d
+      internalID: 7410975436752971834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 46
+        width: 16
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfb6cb1ede33b347847891a8fff9909
+      internalID: 8597506773060609530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_20
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 56
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c70c3738bfa50498020e72dedb9b53
+      internalID: -2576020910035042287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_21
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 56
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f291b03def4035e4b94bb36ef71a7a49
+      internalID: -687169421910390521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_22
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 56
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e58333ac1398d44b3e7fd8bdd1a31f
+      internalID: -5876018980163473710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_23
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 56
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9973db82811f58947bf3c96dc00daaa9
+      internalID: 5432345649541460361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 324
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5ccb82203d4354682d4f30a6f0e3b6
+      internalID: -7973795071648819489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 324
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678cf0a742487d449bbc2f1582ce9e12
+      internalID: 6927989631832869580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_27
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 324
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba7e69d3c0d3e64699425ca48c2bb98
+      internalID: 8281797251175363505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_28
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 324
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9145a50b4e622e49b72af402949f0ad
+      internalID: 987606158641001934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_29
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 324
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290b9b35363a35143b343aa0e69d47c3
+      internalID: 397934248042097970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_30
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 324
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810344d5088e81447882a7883edbf079
+      internalID: -1329586156109868507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_31
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 324
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e3852cee62ff24fa8315da1914735f
+      internalID: -7216552810368631651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_32
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 324
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc7caccece99fc41815e6b2c61b130f
+      internalID: 1632138671826728581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_33
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 324
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0eca8cde9493944bc597512fb0f768
+      internalID: 280742582663574353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_34
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 324
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c6b909efbace74c8613e1c980eeb99
+      internalID: -2728769326411735934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrapSheet_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 134
+        width: 128
+        height: 54
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd002e8d735c914d92474c7f5310b5d
+      internalID: -2709611190085228549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

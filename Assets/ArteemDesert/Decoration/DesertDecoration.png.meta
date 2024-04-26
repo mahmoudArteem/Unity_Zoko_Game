@@ -1,0 +1,1603 @@
+fileFormatVersion: 2
+guid: e633c10d454412d4eb4a65491b64c6de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7028309231533025165
+    second: DesertDecoration_0
+  - first:
+      213: -6099330416180477909
+    second: DesertDecoration_1
+  - first:
+      213: -6123385243448430556
+    second: DesertDecoration_2
+  - first:
+      213: -2159119590613890429
+    second: DesertDecoration_3
+  - first:
+      213: -5419870873866348476
+    second: DesertDecoration_4
+  - first:
+      213: 2240535065887510945
+    second: DesertDecoration_5
+  - first:
+      213: 3972018281131529983
+    second: DesertDecoration_6
+  - first:
+      213: 2769050718325800342
+    second: DesertDecoration_7
+  - first:
+      213: 506314020604876666
+    second: DesertDecoration_8
+  - first:
+      213: -7303586921424298121
+    second: DesertDecoration_9
+  - first:
+      213: 5989539642037347095
+    second: DesertDecoration_10
+  - first:
+      213: -1145423893597961912
+    second: DesertDecoration_11
+  - first:
+      213: 2174025033378459210
+    second: DesertDecoration_12
+  - first:
+      213: 658874295867565828
+    second: DesertDecoration_13
+  - first:
+      213: -5208135360808306926
+    second: DesertDecoration_14
+  - first:
+      213: -8245449490026747960
+    second: DesertDecoration_15
+  - first:
+      213: -311666810225578999
+    second: DesertDecoration_16
+  - first:
+      213: 3837290983691195215
+    second: DesertDecoration_17
+  - first:
+      213: 6972034842111217110
+    second: DesertDecoration_18
+  - first:
+      213: -3640477548914409685
+    second: DesertDecoration_19
+  - first:
+      213: 6345018007297440176
+    second: DesertDecoration_20
+  - first:
+      213: 858372311199759895
+    second: DesertDecoration_21
+  - first:
+      213: 5361513472596596953
+    second: DesertDecoration_22
+  - first:
+      213: -7379873356786480662
+    second: DesertDecoration_23
+  - first:
+      213: 8398639979686758105
+    second: DesertDecoration_24
+  - first:
+      213: -3987774290202746497
+    second: DesertDecoration_25
+  - first:
+      213: -8637372035397792528
+    second: DesertDecoration_26
+  - first:
+      213: -8404983747650061349
+    second: DesertDecoration_27
+  - first:
+      213: -7063170529454799874
+    second: DesertDecoration_28
+  - first:
+      213: 6296958714805533209
+    second: DesertDecoration_29
+  - first:
+      213: -1455954334470798788
+    second: DesertDecoration_31
+  - first:
+      213: 1186547210148636019
+    second: DesertDecoration_32
+  - first:
+      213: -3203958760841634301
+    second: DesertDecoration_33
+  - first:
+      213: 697852813523856514
+    second: DesertDecoration_34
+  - first:
+      213: -8945501644250524062
+    second: DesertDecoration_35
+  - first:
+      213: -4351110138966148309
+    second: DesertDecoration_36
+  - first:
+      213: 5116086272061069347
+    second: DesertDecoration_38
+  - first:
+      213: 5915915911331392823
+    second: DesertDecoration_40
+  - first:
+      213: 4461891678290358787
+    second: DesertDecoration_43
+  - first:
+      213: 9079930526880807454
+    second: DesertDecoration_44
+  - first:
+      213: -5855509255406228093
+    second: DesertDecoration_45
+  - first:
+      213: 2859088119425677567
+    second: DesertDecoration_46
+  - first:
+      213: 2569978576017326306
+    second: DesertDecoration_47
+  - first:
+      213: -3785120454353703274
+    second: DesertDecoration_48
+  - first:
+      213: 7772103862197470834
+    second: DesertDecoration_50
+  - first:
+      213: -6910710583372136333
+    second: DesertDecoration_51
+  - first:
+      213: 7033825415488677287
+    second: DesertDecoration_52
+  - first:
+      213: -9190682064621472121
+    second: DesertDecoration_54
+  - first:
+      213: -2748342721474636157
+    second: DesertDecoration_55
+  - first:
+      213: -8068996001229163746
+    second: DesertDecoration_56
+  - first:
+      213: 7756888544684260340
+    second: DesertDecoration_57
+  - first:
+      213: -5640569550570281698
+    second: DesertDecoration_58
+  - first:
+      213: -8555852277980998148
+    second: DesertDecoration_59
+  - first:
+      213: 9177590345040281851
+    second: DesertDecoration_62
+  - first:
+      213: 4152933282409501925
+    second: DesertDecoration_63
+  - first:
+      213: -7799529100098661086
+    second: DesertDecoration_64
+  - first:
+      213: -7142361465059549401
+    second: DesertDecoration_65
+  - first:
+      213: 5107399229201221531
+    second: DesertDecoration_66
+  - first:
+      213: -1132129834558113093
+    second: DesertDecoration_67
+  - first:
+      213: -7513742271461287038
+    second: DesertDecoration_68
+  - first:
+      213: -1217157693006779956
+    second: DesertDecoration_69
+  - first:
+      213: -8219286335289354161
+    second: DesertDecoration_70
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DesertDecoration_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 932
+        width: 37
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0971be754cf93443b940c34075ba172
+      internalID: 7028309231533025165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 925
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8eba2a05c899e74e8166e0364670153
+      internalID: -6099330416180477909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 925
+        width: 33
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f2bc523c8cc3845bdbda623f7268d1
+      internalID: -6123385243448430556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 897
+        width: 32
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf6b6598b355c24880babcc94fe6c01
+      internalID: -2159119590613890429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 935
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed337cfc5927644b90e4f84de565bd6
+      internalID: -5419870873866348476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 942
+        width: 11
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2154518413ff907489f9168adacd4b93
+      internalID: 2240535065887510945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_6
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 926
+        width: 16
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1813b72a5c762c4b88445e7d49d7904
+      internalID: 3972018281131529983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_7
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 889
+        width: 48
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68222f328dc1c294fab13bc9e3f70d26
+      internalID: 2769050718325800342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_8
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 891
+        width: 24
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4be57c383e98ea4ea3c474a072cec5d
+      internalID: 506314020604876666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_9
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 985
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063a18943d8221b4aa7ebffeab3055c2
+      internalID: -7303586921424298121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_10
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 986
+        width: 74
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2852df487d7cee745828284c1e590ef3
+      internalID: 5989539642037347095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_11
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 978
+        width: 103
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb0df32e7991b44c83702f8724623f2
+      internalID: -1145423893597961912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_12
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 998
+        width: 162
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c2adcf667f73a479fa10c0280b998e
+      internalID: 2174025033378459210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 894
+        width: 102
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfc4dac34e221a48adb5b079ba642c1
+      internalID: 658874295867565828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_14
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 925
+        width: 114
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d9741647654844499164ec0b64118d
+      internalID: -5208135360808306926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 781
+        width: 33
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ef2bde8351cad46a0e6d5c76ae4027
+      internalID: -8245449490026747960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 822
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02d03d702863744c9fa9c22d10bad61
+      internalID: -311666810225578999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_17
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 870
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af38a36bf1b30a84ba5fe877059f3b07
+      internalID: 3837290983691195215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_18
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 859
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cce906eb47f0214599c3e51ff592b8e
+      internalID: 6972034842111217110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_19
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 877
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983776529aecb57438604eced97e1842
+      internalID: -3640477548914409685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_20
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 834
+        width: 80
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7531433e1ae6a6040b5f891f54e91910
+      internalID: 6345018007297440176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 770
+        width: 143
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc91c8316ba2f148a1870e824cbbe7e
+      internalID: 858372311199759895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_22
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 787
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af96f703035669443b873d7363039e8b
+      internalID: 5361513472596596953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_23
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 776
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16e6c37544d0d0478b82db1903985f6
+      internalID: -7379873356786480662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_24
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 785
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad0db239d2dd91469a6c779831cf3f9
+      internalID: 8398639979686758105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_25
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 779
+        width: 184
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e27e3b8b61f6e64490c29596ffb9707
+      internalID: -3987774290202746497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 116
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6223779de0b12ec439026391bc5c43f3
+      internalID: -8637372035397792528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 674
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8037b20582ea684ea785711ed447e4b
+      internalID: -8404983747650061349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_28
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 651
+        width: 61
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f77c4e244352364d91bdfbe62f2522d
+      internalID: -7063170529454799874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_29
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 651
+        width: 113
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff83f0be7ebb0e418fdfa98673e7419
+      internalID: 6296958714805533209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_31
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 653
+        width: 50
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a56c7b22971b641ae9ed0f862e29fa
+      internalID: -1455954334470798788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_32
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 651
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139eb6d4a75afdb44a6631c6e780653b
+      internalID: 1186547210148636019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 657
+        width: 101
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fb3e6a4d4d3c24e87104bff83676b9
+      internalID: -3203958760841634301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 620
+        width: 139
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df996491ff5e516479d2ec39acfd8e46
+      internalID: 697852813523856514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_35
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 651
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14759abfa54b9b448bd3751786a087c
+      internalID: -8945501644250524062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_36
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 651
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88753f128bacc7d44be7ba57651df74c
+      internalID: -4351110138966148309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_38
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 652
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd10a7ae650d1b4da20f3af9e36aa3c
+      internalID: 5116086272061069347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_40
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 652
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ba7b57c534e424b996f299e864bbe5
+      internalID: 5915915911331392823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 610
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e7ba5fbd2ce424b906d1c47518fc07
+      internalID: 4461891678290358787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_44
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 511
+        width: 45
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fdf58a08a68f642a4b9b0819d0f775
+      internalID: 9079930526880807454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_45
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 514
+        width: 50
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ef116b6eec07842bc634a9d3232d59
+      internalID: -5855509255406228093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_46
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 547
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f6c8dfb1a458a4f838d1ca068e15f1
+      internalID: 2859088119425677567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_47
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 554
+        width: 179
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef4eb3016d9ef341b43eef790413952
+      internalID: 2569978576017326306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_48
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 511
+        width: 81
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147a602332468594ca101cf50fbddbdb
+      internalID: -3785120454353703274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_50
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 511
+        width: 116
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711591dcb91a8b541a8b98bb283f7307
+      internalID: 7772103862197470834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_51
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 513
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edd04771e3cc4140b1d247be7a27fc7
+      internalID: -6910710583372136333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_52
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 513
+        width: 75
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2454a039901e82143a78300bdceaf9ba
+      internalID: 7033825415488677287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 518
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5c276b6685c084697a368ce80ddbf5
+      internalID: -9190682064621472121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 511
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a0d45b8b25b404690425798db23ba2
+      internalID: -2748342721474636157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_56
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 511
+        width: 125
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c81318b2e557647b0a2595764162ad
+      internalID: -8068996001229163746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_57
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 511
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f0ce72952e8534d99932a017c3ce8a
+      internalID: 7756888544684260340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_58
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 511
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1595673b2bd747e43951d3c7aa33fc18
+      internalID: -5640569550570281698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_59
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 513
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456c12ab5336ca344987525ce2d03e6a
+      internalID: -8555852277980998148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_62
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 435
+        width: 186
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5714b927416f9364b8ce437fa599e83b
+      internalID: 9177590345040281851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_63
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 441
+        width: 144
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6bc0c228406c04d96f5f8bc9a07e8d
+      internalID: 4152933282409501925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_64
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 334
+        width: 55
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990210d8d08bf0b469b64057850805b2
+      internalID: -7799529100098661086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_65
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 333
+        width: 170
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeca5ac18ee6644a876527b8b453bb8
+      internalID: -7142361465059549401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_66
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 361
+        width: 76
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c170b2bc1ed1f274f8afe2792e289b3a
+      internalID: 5107399229201221531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_67
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 313
+        width: 121
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ebdcbb8a1207742aeb795ffc8cb859
+      internalID: -1132129834558113093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_68
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 301
+        width: 95
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7b52da17bc387498e15209cb745b5a
+      internalID: -7513742271461287038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_69
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 289
+        width: 153
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d678e18547a5bc44bb3c3009a25e16c
+      internalID: -1217157693006779956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertDecoration_70
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 288
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fcfb6253661e84d977daab6ff637b3
+      internalID: -8219286335289354161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

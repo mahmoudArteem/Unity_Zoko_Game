@@ -1,0 +1,1723 @@
+fileFormatVersion: 2
+guid: ac232c934feb16c4ea60a5c985466c35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8006567732072263523
+    second: shadowPanels_0
+  - first:
+      213: 7804644739192043327
+    second: shadowPanels_1
+  - first:
+      213: 6063871482301127852
+    second: shadowPanels_2
+  - first:
+      213: 8530088725141577434
+    second: shadowPanels_3
+  - first:
+      213: -4403824457111970295
+    second: shadowPanels_4
+  - first:
+      213: -6490851592426112558
+    second: shadowPanels_5
+  - first:
+      213: 980906192305211089
+    second: shadowPanels_6
+  - first:
+      213: -6066020364655826573
+    second: shadowPanels_7
+  - first:
+      213: -4471816584501227672
+    second: shadowPanels_8
+  - first:
+      213: 2011978297934775272
+    second: shadowPanels_9
+  - first:
+      213: 110670340587646649
+    second: shadowPanels_10
+  - first:
+      213: 6367028317097560125
+    second: shadowPanels_11
+  - first:
+      213: 141383847753544190
+    second: shadowPanels_12
+  - first:
+      213: 6853415004583442598
+    second: shadowPanels_13
+  - first:
+      213: 2291388141392869531
+    second: shadowPanels_14
+  - first:
+      213: 5757849444129976857
+    second: shadowPanels_16
+  - first:
+      213: 6647729211246013457
+    second: shadowPanels_17
+  - first:
+      213: -8742423347654801092
+    second: shadowPanels_18
+  - first:
+      213: -469709575421125826
+    second: shadowPanels_19
+  - first:
+      213: 1961142378910427930
+    second: shadowPanels_20
+  - first:
+      213: 6471756903228857957
+    second: shadowPanels_23
+  - first:
+      213: -6208722208274226220
+    second: shadowPanels_25
+  - first:
+      213: 3865835000728678527
+    second: shadowPanels_26
+  - first:
+      213: 4860345414089733537
+    second: shadowPanels_27
+  - first:
+      213: -5760817201701795678
+    second: shadowPanels_28
+  - first:
+      213: 7305327964093672313
+    second: shadowPanels_29
+  - first:
+      213: -8717487158957369080
+    second: shadowPanels_30
+  - first:
+      213: 8326062866038404851
+    second: shadowPanels_33
+  - first:
+      213: -2058540500149466959
+    second: shadowPanels_34
+  - first:
+      213: 5853747302492435810
+    second: shadowPanels_38
+  - first:
+      213: -2719456638982816567
+    second: shadowPanels_40
+  - first:
+      213: 1932707484894192028
+    second: shadowPanels_41
+  - first:
+      213: -1137014626280946910
+    second: shadowPanels_42
+  - first:
+      213: -3846937348829553260
+    second: shadowPanels_43
+  - first:
+      213: -529023146861298762
+    second: shadowPanels_44
+  - first:
+      213: 4237257044255112626
+    second: shadowPanels_45
+  - first:
+      213: -5397821944175818791
+    second: shadowPanels_46
+  - first:
+      213: 3079123883274485651
+    second: shadowPanels_47
+  - first:
+      213: -6109390128849173067
+    second: shadowPanels_48
+  - first:
+      213: -6255155490698193142
+    second: shadowPanels_49
+  - first:
+      213: -5147693511010849270
+    second: shadowPanels_50
+  - first:
+      213: 7619497528887392819
+    second: shadowPanels_51
+  - first:
+      213: -364326610400764533
+    second: shadowPanels_52
+  - first:
+      213: 4391429756148998623
+    second: shadowPanels_53
+  - first:
+      213: -2506321957707425869
+    second: shadowPanels_54
+  - first:
+      213: -5868699525945117119
+    second: shadowPanels_55
+  - first:
+      213: 3250118455158967151
+    second: shadowPanels_56
+  - first:
+      213: 5784928256756195491
+    second: shadowPanels_57
+  - first:
+      213: -4734248500810779175
+    second: shadowPanels_58
+  - first:
+      213: 9166436027367726775
+    second: shadowPanels_59
+  - first:
+      213: -2886609476638489794
+    second: shadowPanels_60
+  - first:
+      213: 8674146536129504458
+    second: shadowPanels_61
+  - first:
+      213: -3013915003225011008
+    second: shadowPanels_62
+  - first:
+      213: -7499727969957274481
+    second: shadowPanels_63
+  - first:
+      213: 8240547949280439549
+    second: shadowPanels_64
+  - first:
+      213: -834674812413706810
+    second: shadowPanels_65
+  - first:
+      213: -2915371687905600573
+    second: shadowPanels_66
+  - first:
+      213: 6560354249865012700
+    second: shadowPanels_67
+  - first:
+      213: -2573231348331537495
+    second: shadowPanels_68
+  - first:
+      213: 1992695064683352929
+    second: shadowPanels_69
+  - first:
+      213: -3128659368363778216
+    second: shadowPanels_15
+  - first:
+      213: -3735380408643877485
+    second: shadowPanels_21
+  - first:
+      213: 5781424919100109982
+    second: shadowPanels_22
+  - first:
+      213: 2201676627781374000
+    second: shadowPanels_24
+  - first:
+      213: -3573550080001641299
+    second: shadowPanels_31
+  - first:
+      213: -5905177077584227214
+    second: shadowPanels_32
+  - first:
+      213: 7968750788204215989
+    second: shadowPanels_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shadowPanels_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1592
+        width: 512
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 317, y: 147, z: 186, w: 122}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90015e0ee535b994a9145f0b71a2a1d1
+      internalID: 8006567732072263523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1592
+        width: 512
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 317, y: 147, z: 186, w: 155}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6c777996de0f64e8c83e725867b728
+      internalID: 7804644739192043327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_2
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1984
+        width: 249
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 95, y: 0, z: 59, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4617ec17a63a847bb6d6b05474e661
+      internalID: 6063871482301127852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_3
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1920
+        width: 499
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 190, y: 0, z: 116, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ef9dc4ba9079a468cda0affa9403dc
+      internalID: 8530088725141577434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_4
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc2ebb891fe93d43ae1cde75cdc1590
+      internalID: -4403824457111970295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_5
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 12, z: 12, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3698cc27256679b479438ccdb3d05551
+      internalID: -6490851592426112558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_6
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 12, z: 12, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550554ef7a368dc4296ceb1694302320
+      internalID: 980906192305211089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_7
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 12, z: 12, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd406fe100445a4da68c7537f80ee69
+      internalID: -6066020364655826573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_8
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1728
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3bb28d18b03f343af7e29ab1fe4085
+      internalID: -4471816584501227672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_9
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1600
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb800cb774fc2d4799a8f7330b5bcba
+      internalID: 2011978297934775272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 21, z: 16, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48feb666661468048b4f63b426fc6d7b
+      internalID: 110670340587646649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_11
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731fd6e349ef85e4f8f6abdca9c67f49
+      internalID: 6367028317097560125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_12
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4456eb7bd78ebd469dbcbbcf56ec8e0
+      internalID: 141383847753544190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_13
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1536
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89381a9513718b044a67f99173cd81e4
+      internalID: 6853415004583442598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_14
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1536
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0df03ebadec6184489e106bf4ea99df
+      internalID: 2291388141392869531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_16
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489a59a7c9165ed45b9dcd544b7503c7
+      internalID: 5757849444129976857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1254
+        width: 512
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 234, y: 110, z: 137, w: 92}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3548ebf23c793b140840b897a9f5bfff
+      internalID: 6647729211246013457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1472
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 24, z: 16, w: 26}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441716a176ce54d4d9210cae242ab1f0
+      internalID: -8742423347654801092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1472
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 21, z: 16, w: 27}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dce835fac0318f489e6a7c6da74e3e0
+      internalID: -469709575421125826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_20
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1415
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f4bf3353090ae4bb28da6c43fe8883
+      internalID: 1961142378910427930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_23
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d98e27372e61347af86a92b3bc55d3
+      internalID: 6471756903228857957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_25
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1411
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f664f107a1794d742bb5dd357e568695
+      internalID: -6208722208274226220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_26
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1416
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9d8cbffb2b6574eb8ff97380b9e309
+      internalID: 3865835000728678527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_27
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1416
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21451e3ffe500e14dacde76e1469c335
+      internalID: 4860345414089733537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_28
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce010ded83cf0f489c5dce868ea9427
+      internalID: -5760817201701795678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_29
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1413
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64473cd9ac197cc4599871a0d8d82b48
+      internalID: 7305327964093672313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_30
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b305e9f6c9a7a2b468fed65eb157d8c4
+      internalID: -8717487158957369080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_33
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46e79e4f0b948f4899ac923492f3df7
+      internalID: 8326062866038404851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_34
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1344
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71afb552f51571947970de0f171261e2
+      internalID: -2058540500149466959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1345
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5563bcd0ac8a88d43a05104c1f7e6f24
+      internalID: 5853747302492435810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_40
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1344
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5471ad61c255ca242a02bc6b59aec2b5
+      internalID: -2719456638982816567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_41
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15386f531cbbeb74da8abc24530ca5d5
+      internalID: 1932707484894192028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_42
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a58cb9d63bef14f946432fd693e33c
+      internalID: -1137014626280946910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_43
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1280
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e781eda74369b84fb78a6176561d351
+      internalID: -3846937348829553260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_44
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdb156130b961b459b1ec0b0d18187b
+      internalID: -529023146861298762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_45
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1216
+        width: 130
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba531f1ddfe3ab43bc514e8c427e19f
+      internalID: 4237257044255112626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_46
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07100dddb5e7794eb03d543ec300e05
+      internalID: -5397821944175818791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_47
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d5b8aab2c3cc246b7a60c2fbedb70e
+      internalID: 3079123883274485651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_48
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1216
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05bceb31c113284085a5a70b933dbea
+      internalID: -6109390128849173067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 74, y: 0, z: 28, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0ce920fb8259142ade9916ef91edaa
+      internalID: -6255155490698193142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 320
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 80, y: 0, z: 80, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad770091e4046e4ba119223f7cf815e
+      internalID: -5147693511010849270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_51
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1088
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2e51d834bd02f4995a69ddeb49119c
+      internalID: 7619497528887392819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_52
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1088
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889170d19eb4deb4e9ef253b234bdca6
+      internalID: -364326610400764533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 74, y: 0, z: 28, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e635dd22560877048993d81fbae1cc68
+      internalID: 4391429756148998623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 320
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 80, y: 0, z: 80, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e6045975b5cd84eb079257828401de
+      internalID: -2506321957707425869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_55
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8248183323a2e439331768b5d2a3f9
+      internalID: -5868699525945117119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_56
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1024
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f171699ecda51e4382b63fb667cc94c
+      internalID: 3250118455158967151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_57
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0c01c504c31f54eafac8100a21e1c8
+      internalID: 5784928256756195491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_58
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d92b33a50568445be7cd3b24f4eee0
+      internalID: -4734248500810779175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_59
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1040
+        width: 129
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63893973db6eda4fbdbe74262d82913
+      internalID: 9166436027367726775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_60
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 960
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 0, z: 15, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a739cf80077a874c8f8083b40482d57
+      internalID: -2886609476638489794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 74, y: 0, z: 28, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44e07a8d231fca468a0c1d0ecef8292
+      internalID: 8674146536129504458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_62
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 320
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 80, y: 0, z: 80, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871a539509c677e47922f8442e25cbb7
+      internalID: -3013915003225011008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 687
+        width: 1281
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 57, z: 0, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e821e299547dc64aa99fd129cb2070a
+      internalID: -7499727969957274481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_64
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908f7ea3ce55cf64c827118d047fae44
+      internalID: 8240547949280439549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 1280
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7697f332f29f81c468dc3177aa17bc23
+      internalID: -834674812413706810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2115d909f1b9d7845a372eab0a3035cf
+      internalID: -2915371687905600573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 300
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98237044b88b80241a5bfdcb2e7e9661
+      internalID: 6560354249865012700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_68
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 300
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e2b95e995668240805784946428403
+      internalID: -2573231348331537495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_69
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 4
+        width: 494
+        height: 501
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c8012f127e8a14d8c5995d393fcec6
+      internalID: 1992695064683352929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_15
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f443bb2233d60449a2ab1a361767a9
+      internalID: -3128659368363778216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_21
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61456e76aa90b76409c66fdb0c3de93c
+      internalID: -3735380408643877485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_22
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28bb364d31685f4f852ab68a1e81927
+      internalID: 5781424919100109982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 74, y: 0, z: 28, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091bfa53422f6174da92d3afc05b3259
+      internalID: 2201676627781374000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 74, y: 0, z: 28, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acb5174b5a02ed46abb602ed6fba9c4
+      internalID: -3573550080001641299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_32
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 510
+        width: 196
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 58, y: 64, z: 65, w: 58}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff414d414e349b64a8c633119fdc227d
+      internalID: -5905177077584227214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadowPanels_35
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 32
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 94, z: 122, w: 106}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad3206f3f43af84d8c44261279edfd4
+      internalID: 7968750788204215989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

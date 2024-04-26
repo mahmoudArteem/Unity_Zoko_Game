@@ -1,0 +1,1366 @@
+fileFormatVersion: 2
+guid: cdc5ca34ece50a54fb9fee20e3eb632b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9215579488110142889
+    second: panel0
+  - first:
+      213: 8946634163862211845
+    second: squareBtnInt
+  - first:
+      213: -8234463519599907418
+    second: squareBtnDis
+  - first:
+      213: -6441903948309195991
+    second: border0
+  - first:
+      213: -5175695223720855762
+    second: border1
+  - first:
+      213: -1494811062620527128
+    second: panelBack0
+  - first:
+      213: -6897856630705568304
+    second: rectangleBtnInt
+  - first:
+      213: 4055314002697497029
+    second: rectangleBtnDis
+  - first:
+      213: -6203113255157996353
+    second: medivalui_8
+  - first:
+      213: 4539789150836030199
+    second: medivalui_9
+  - first:
+      213: -3253270006815813914
+    second: medivalui_10
+  - first:
+      213: 5423492703697228835
+    second: medivalui_11
+  - first:
+      213: 5539706118701163048
+    second: medivalui_12
+  - first:
+      213: 3115116023153315419
+    second: medivalui_13
+  - first:
+      213: 7706629913445815758
+    second: medivalui_14
+  - first:
+      213: -6696666831830926371
+    second: medivalui_15
+  - first:
+      213: -6602743415213970725
+    second: panel1
+  - first:
+      213: -6968223471771903240
+    second: panel2
+  - first:
+      213: -777265278640889814
+    second: medivalui_18
+  - first:
+      213: -6890675083076513527
+    second: medivalui_19
+  - first:
+      213: -6633116820828736809
+    second: medivalui_20
+  - first:
+      213: 5281680074019956907
+    second: medivalui_21
+  - first:
+      213: 4329361299332115479
+    second: medivalui_22
+  - first:
+      213: 5275705534540811489
+    second: medivalui_23
+  - first:
+      213: -8532849548318960924
+    second: medivalui_24
+  - first:
+      213: 2892885429773681234
+    second: medivalui_25
+  - first:
+      213: -5432355707359895740
+    second: medivalui_26
+  - first:
+      213: -892321946217573309
+    second: medivalui_27
+  - first:
+      213: -3121630097749868676
+    second: medivalui_28
+  - first:
+      213: 7382996778947759740
+    second: medivalui_29
+  - first:
+      213: -6092731709321848489
+    second: medivalui_30
+  - first:
+      213: -6014030048012723756
+    second: medivalui_31
+  - first:
+      213: 1840092603093830372
+    second: medivalui_32
+  - first:
+      213: -5063818170166604491
+    second: medivalui_33
+  - first:
+      213: -9020511654011636519
+    second: medivalui_34
+  - first:
+      213: -8907140929554310056
+    second: medivalui_35
+  - first:
+      213: 2191030358782546589
+    second: crackBig
+  - first:
+      213: 5878705816697677240
+    second: crackSmall
+  - first:
+      213: 5335262598068383363
+    second: medivalui_38
+  - first:
+      213: 8382881641847882593
+    second: medivalui_39
+  - first:
+      213: -8476718233132735189
+    second: medivalui_40
+  - first:
+      213: 8434575870023280195
+    second: medivalui_41
+  - first:
+      213: -9071957646693400292
+    second: crackMed
+  - first:
+      213: 1529099871455268702
+    second: medivalui_43
+  - first:
+      213: -9153189683414384585
+    second: medivalui_44
+  - first:
+      213: -337422504577706096
+    second: medivalui_45
+  - first:
+      213: 2217799750670631922
+    second: medivalui_46
+  - first:
+      213: 6740872592227898525
+    second: medivalui_47
+  - first:
+      213: -9133359291030203537
+    second: medivalui_48
+  - first:
+      213: 926860704081250966
+    second: medivalui_49
+  - first:
+      213: -8471058976208439027
+    second: medivalui_50
+  - first:
+      213: 4048184437341100381
+    second: medivalui_51
+  - first:
+      213: -448870636713118803
+    second: medivalui_52
+  - first:
+      213: 8736459815617825430
+    second: medivalui_53
+  - first:
+      213: -3744196074292902230
+    second: medivalui_54
+  - first:
+      213: 239995222895953147
+    second: medivalui_55
+  - first:
+      213: 180799307893479796
+    second: medivalui_56
+  - first:
+      213: 7372727328157461340
+    second: medivalui_57
+  - first:
+      213: -3883733846316790968
+    second: medivalui_58
+  - first:
+      213: 6271950157311255991
+    second: medivalui_59
+  - first:
+      213: 5673141116859230800
+    second: medivalui_60
+  - first:
+      213: -2010418939468034662
+    second: medivalui_61
+  - first:
+      213: -4912434062487256436
+    second: medivalui_62
+  - first:
+      213: 3972084399476248742
+    second: medivalui_63
+  - first:
+      213: 1128962895653800599
+    second: medivalui_64
+  - first:
+      213: 7618716683235614331
+    second: medivalui_65
+  - first:
+      213: 4501509331206910572
+    second: medivalui_66
+  - first:
+      213: -30319004663971578
+    second: medivalui_67
+  - first:
+      213: 3558401366521526413
+    second: medivalui_68
+  - first:
+      213: -6645363393272586199
+    second: background1
+  - first:
+      213: 7272778710419564921
+    second: gameLogo
+  - first:
+      213: 1840017267315293649
+    second: background2
+  - first:
+      213: 8130110755066101914
+    second: background3
+  - first:
+      213: -1877536195787572404
+    second: background4
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: panel0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 12, z: 12, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ae6c26f32fd15468de00f4562220d7
+      internalID: 9215579488110142889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squareBtnInt
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0d5dee46a4f494a8424072e03b9dee
+      internalID: 8946634163862211845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squareBtnDis
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f1fca2b1bb08b4786cde1bcc3107f0
+      internalID: -8234463519599907418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: border0
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1984
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 12, z: 12, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75497ffcd9231b142adaa39cf31031b1
+      internalID: -6441903948309195991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: border1
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1984
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 12, z: 12, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dd0916efd72764e8d31d699dbec941
+      internalID: -5175695223720855762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panelBack0
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1984
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 12, z: 12, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ee32852d1decc4c8c245ff76ffb33c
+      internalID: -1494811062620527128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectangleBtnInt
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1984
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c8874f21f015d4892893bef9325bb7
+      internalID: -6897856630705568304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectangleBtnDis
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1984
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe3a576367253641bc0c2e2de82de0b
+      internalID: 4055314002697497029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_9
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c78dee13b487a4c9b5ef9c85730069
+      internalID: 4539789150836030199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_12
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003b7c49100afb34f9eee50a3ba711d1
+      internalID: 5539706118701163048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_14
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0524a2bb80eff438089e5a6aa59f2c
+      internalID: 7706629913445815758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_15
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d51f298d29e10418b56735230ddb0e
+      internalID: -6696666831830926371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 46, y: 46, z: 46, w: 46}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464301cf2ba82364d8436f1de0e95b90
+      internalID: -6602743415213970725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1664
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 46, y: 46, z: 46, w: 46}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0438282c80c6245a10e465e113a222
+      internalID: -6968223471771903240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc1714e56886b449b12af0813e02371
+      internalID: -777265278640889814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_19
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e214d21c4ee4f6140af50241a3ae67a4
+      internalID: -6890675083076513527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_20
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c49e6172c7bfa45959df6d93403ecb
+      internalID: -6633116820828736809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_23
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1728
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a111685e6605b45ac69e3e0197e920
+      internalID: 5275705534540811489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_25
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1728
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a494e895f45044992ced7d77928c5b
+      internalID: 2892885429773681234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1728
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3240e09dfa34742bb8da917825493c
+      internalID: -892321946217573309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_28
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1728
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2458aa43386c6a4585039590b5b2bb2
+      internalID: -3121630097749868676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_30
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1598
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06a6cdc42b5b5140a3551d435366cf1
+      internalID: -6092731709321848489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_31
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1600
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfa3a0fc7ae86c4fb56c7a9f49624ba
+      internalID: -6014030048012723756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_32
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336dae65444a0cb4c88f29c20e2f2e8d
+      internalID: 1840092603093830372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_33
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba71109a77e03074ab56e738840579a2
+      internalID: -5063818170166604491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_34
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6608ead74b70f65468cf960d70531a0e
+      internalID: -9020511654011636519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_35
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd2141665b4bd74abd811c6011df7b5
+      internalID: -8907140929554310056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crackBig
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8deb19cda6d9445bbecb68cf4c2352
+      internalID: 2191030358782546589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crackSmall
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1472
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffbc59298774e64784c2c23930d0bc9
+      internalID: 5878705816697677240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_38
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79bdce731692164da3559efce36fb0c
+      internalID: 5335262598068383363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_41
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ec54cefb1b80f449238e4c0888c298
+      internalID: 8434575870023280195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crackMed
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1152
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5eec8e58b4a87a4bbdabf1ed6a454f8
+      internalID: -9071957646693400292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_43
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1344
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ba372544e1b1e4fb16f17c11b8939a
+      internalID: 1529099871455268702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_44
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1344
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01c5882d85f944448d3869d9d780072
+      internalID: -9153189683414384585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_45
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1344
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2949d4dcf473053478147f950edb7179
+      internalID: -337422504577706096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_46
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1344
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ea3bab15bf9c143b16715956213b55
+      internalID: 2217799750670631922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_47
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de9cb24a93145649ba2b820233933ef
+      internalID: 6740872592227898525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_48
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a99d499e2984d4994d0cd10f4309f1
+      internalID: -9133359291030203537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_49
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d75b469152e8a4c84be3518efca7e7
+      internalID: 926860704081250966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_55
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e5cac86920e18489ffa1cf0d8424cf
+      internalID: 239995222895953147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_59
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb96f2d83ed34b54389c9c1cdf0995aa
+      internalID: 6271950157311255991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_62
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9756aa59d12c27e41a3c9ebeed00a599
+      internalID: -4912434062487256436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_64
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dd3ed45bbd69f49aaca63fb5cefd85
+      internalID: 1128962895653800599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medivalui_68
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 650
+        width: 512
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c625ed2283ae6fc45b60f90110a764e4
+      internalID: 3558401366521526413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a6566dc9d685f42b38b3252725fcda
+      internalID: -6645363393272586199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameLogo
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 128
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435b528fdba93954a99944ff3ee86c8c
+      internalID: 7272778710419564921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6c35f192424c243b37e3d2dcd267fb
+      internalID: 1840017267315293649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b902798ea3a90fe498fefb27ae882d6d
+      internalID: 8130110755066101914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 480
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61db1bff57d1e3c4eb3232df65814925
+      internalID: -1877536195787572404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

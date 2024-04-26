@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae11e20601fe48a49a06b1215e460ef4, type: 3}
+  m_Name: ClothesLabels
+  m_EditorClassIdentifier: 
+  _labelsNames:
+    labelsNames:
+    - black
+    - customA
+    - customB
+    - customC
+    - customD
+    - customE
+    - customF
+    - customG
+    - customH
+    - customI
+    bodyParts:
+    - Arm_L
+    - Arm_R
+    - Calf_L
+    - Calf_R
+    - Chest
+    - Foot_L
+    - Foot_R
+    - ForeArm_L
+    - ForeArm_R
+    - Head
+    - Hip
+    - Leg_L
+    - Leg_R
+    - Spine

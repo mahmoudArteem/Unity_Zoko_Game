@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6e3740cad1d373438eed538ec3c683e, type: 3}
+  m_Name: HatsData
+  m_EditorClassIdentifier: 
+  hatsData:
+  - front: {fileID: 21300000, guid: 64204f70057613048a3e7e9a57acd01f, type: 3}
+    quarter: {fileID: 21300000, guid: 64204f70057613048a3e7e9a57acd01f, type: 3}
+    side: {fileID: 21300000, guid: 64204f70057613048a3e7e9a57acd01f, type: 3}
+    position: {x: 0.42, y: 0}
+  - front: {fileID: -4556116564800032287, guid: bebefb32b310c424b93e6ffd516294af,
+      type: 3}
+    quarter: {fileID: -7276810956377751354, guid: bebefb32b310c424b93e6ffd516294af,
+      type: 3}
+    side: {fileID: -242655917575161741, guid: bebefb32b310c424b93e6ffd516294af, type: 3}
+    position: {x: 0.35, y: 0}
+  - front: {fileID: -4273946605573578294, guid: 79e734571b088734489fa82a02e8f1f0,
+      type: 3}
+    quarter: {fileID: -431991690942834987, guid: 79e734571b088734489fa82a02e8f1f0,
+      type: 3}
+    side: {fileID: -406905177788822149, guid: 79e734571b088734489fa82a02e8f1f0, type: 3}
+    position: {x: 0.39, y: 0}
+  - front: {fileID: 6319184218433775811, guid: c6de5bd89e8b0f04da4b0bb07db68ba3, type: 3}
+    quarter: {fileID: 1533181440204185505, guid: c6de5bd89e8b0f04da4b0bb07db68ba3,
+      type: 3}
+    side: {fileID: 6429977428685927685, guid: c6de5bd89e8b0f04da4b0bb07db68ba3, type: 3}
+    position: {x: 0.42, y: 0}
+  - front: {fileID: 8207314790949792507, guid: 6faa65ed9a7f95d4280aed8fdb4dc418, type: 3}
+    quarter: {fileID: 6855868364681776348, guid: 6faa65ed9a7f95d4280aed8fdb4dc418,
+      type: 3}
+    side: {fileID: 4625096533579520860, guid: 6faa65ed9a7f95d4280aed8fdb4dc418, type: 3}
+    position: {x: 0.42, y: 0}
+  - front: {fileID: 5108528571888794382, guid: 4de14015d88ffb54cb10ae0515df67ee, type: 3}
+    quarter: {fileID: -218998679644425310, guid: 4de14015d88ffb54cb10ae0515df67ee,
+      type: 3}
+    side: {fileID: 8281450853756513390, guid: 4de14015d88ffb54cb10ae0515df67ee, type: 3}
+    position: {x: 0.39, y: 0}
